@@ -1,0 +1,3 @@
+This Game was developed by C++ on 11/12/2020 by myself (Manish A)
+
+The Game Name is "Hand-Cricket" and it was given to Seena's friend - Adithya as a Mini Project.
